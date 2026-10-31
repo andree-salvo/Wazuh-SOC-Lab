@@ -1,5 +1,15 @@
 # Wazuh SOC Lab – SIEM Deployment and Endpoint Monitoring
 
+## Lab Documentation
+
+The following write-ups document each phase of my Wazuh SOC Lab, including implementation steps, supporting evidence, results, and lessons learned.
+
+- **Phase 1:** [Lab Setup and Network Connectivity](Documentation/01-Lab-Setup.md)
+- **Phase 2:** [Windows Agent Deployment and Event Collection](Documentation/02-Windows-Agent-Deployment.md)
+- **Phase 3:** Security Event Simulation *(Planned)*
+- **Phase 4:** Alert Investigation *(Planned)*
+- **Phase 5:** MITRE ATT&CK Mapping *(Planned)*
+
 ## Project Overview
 
 This project focuses on building a hands-on Security Operations Center (SOC) lab using **Wazuh**, an open-source Security Information and Event Management (SIEM) and security monitoring platform.
